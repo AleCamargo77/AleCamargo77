@@ -2,7 +2,7 @@
 
 <ul dir="auto">
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Desenvolvedor Front End</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Desenvolvedor Front End Web</p>
 </li>
 <li>
 <dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> Todos os meus projetos estão disponíveis no meu <a href="https://alecamargo77.github.io/Portfolio-Projetos/" rel="nofollow" target="_blank"> Portfólio</a>
